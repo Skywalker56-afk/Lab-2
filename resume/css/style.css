@@ -1,0 +1,206 @@
+body{
+    word-wrap: break-word;
+}
+/* Синій блок */
+.blockLeft {
+    position: relative;
+    width: 25%;
+    height: 1000px;
+    background: #4D1010;
+}
+/* Мармизка */
+.picture {
+    margin-top: 10%;
+    width: 100%;
+}
+/* Текст контактів */
+.contactText{
+    position: relative;
+    margin-left: 10px;
+    
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 22px;
+    line-height: 27px;
+    /* identical to box height */
+    color: #FFFFFF;
+}
+.contacts{
+    margin-left: 10px;
+}
+/* Контактний номер */
+.numberText{
+    margin: 0;
+    font-size: 18px;
+    justify-content: center;
+    color: #AAA;
+
+    font-family: Montserrat;
+    font-style: normal;
+
+}
+/* Електронна пошта */
+.emailText{
+    word-wrap: break-word;
+    position: relative;
+    margin: 0;
+    color: #AAA;
+    font-size: 18px;
+
+    font-family: Montserrat;
+    font-style: normal;
+}
+/* Хард скіли назва */
+.techSkills{
+    position: relative;
+    word-wrap: break-word;
+    position: relative;
+    margin: 0;
+
+    font-size: 18px;
+
+    font-family: Montserrat;
+    font-style: normal;
+}
+.techSkillsText{
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 22px;
+    line-height: 27px;
+    color: #FFFFFF;
+    margin-left: 20px;
+}
+.techSkillsList{
+    margin-left: -10px;
+    color: #AAA;
+}
+/* інфо */
+.more_info{
+    position: absolute;
+    top: 5%;
+    left: 35%;
+    word-wrap: break-word;
+    font-family: Montserrat;
+    font-style: normal;
+    width: 65%;
+}
+.nameText{
+    position: relative;
+    margin-top: -10px;
+    font-size: 30px;
+}
+.greyBlock1{
+    position: relative;
+    left: -5%;
+    margin-top: -35px;
+    background-color: #AAA;
+    width: 241.3px;
+    height: 32.63px;
+}
+.aboutMe{
+    justify-content: left;
+    display: flex;
+    padding: 6px;
+    padding-left: 15px;
+}
+.smthAboutMeText{
+    margin-bottom: 30px;
+}
+.greyBlock2{
+    position: relative;
+    left: -5%;
+    margin-top: -35px;
+    background-color: #AAA;
+    width: 241.3px;
+    height: 32.63px;
+}
+.experience{
+    justify-content: left;
+    display: flex;
+    padding: 6px;
+    padding-left: 15px;
+}
+.sigma{
+    font-weight: bold;
+    margin-bottom: 0px;
+}
+.front{
+    margin: 0px;
+}
+.data1{
+    color: #AAA;
+    margin: 0px;
+}
+.freelance{
+    font-weight: bold;
+    margin-bottom: 0px;
+}
+.front2{
+    margin: 0px;
+}
+.data2{
+    margin-bottom: 30px;
+    margin-top: 0px;
+    color: #AAA;
+}
+.greyBlock3{
+    position: relative;
+    left: -5%;
+    margin-top: -35px;
+    background-color: #AAA;
+    width: 241.3px;
+    height: 32.63px;
+}
+.education{
+    justify-content: left;
+    display: flex;
+    padding: 6px;
+    padding-left: 15px;
+}
+.knute{
+    font-weight: bold;
+    margin-bottom: 0px;
+}
+.softwareEngeneer{
+    margin: 0px;
+}
+.data3{
+    margin-top: 0px;
+    color: #AAA;
+}
+/* Я можу це зробити (додаткове завдання) */
+.iCanDoThisText{
+    position: relative;
+    
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 29px;
+    
+    color: #000000;
+    
+}
+/* Я можу це зробити (додаткове завдання) список*/
+.iCanDoThisList{
+    position: relative;
+    
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 22px;
+    
+    color: #000000;
+}
+a {
+    color: black;
+    font-weight: 600;
+}
+hr{
+    color: black;
+    margin-left: -15%;
+    border-top: 2px solid black;
+}
